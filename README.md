@@ -25,5 +25,5 @@ This project analyzes the retail grocery sales of a supermarket and the differen
 - Higher discounts may increase order volume but tend to reduce profit margin.
 - Some regions generate more revenue(sales) than other regions.Implementing better marketing and product promotion compaigns in the under performing regions would be useful. 
 
-## ![Dashboard Preview](dashboard.png)
+## ![Dashboard Preview](Dashboard.PNG)
 
